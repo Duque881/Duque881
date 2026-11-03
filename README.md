@@ -20,16 +20,28 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no **Senac São Paulo** 
 
 ## Projetos
 
-### [Caixa-MEI](https://github.com/Duque881/caixa-mei) — projeto acadêmico (Senac) · em desenvolvimento
+### Projetos do Senac (em equipe)
+
+#### [Sistema de Reserva de Assentos de Cinema](https://github.com/Dayane-cantao/cinema-senac-reserva-assentos)
+Projeto Integrador da disciplina Boas Práticas de Desenvolvimento de Software: aplicação web simples e interativa que simula a reserva de ingressos de cinema. Trabalho em equipe de 8 pessoas, versionado no GitHub. **Minha atuação:** levantamento de requisitos e regras do sistema.
+**Stack:** HTML5 · CSS3 · JavaScript · LocalStorage
+
+#### [Análise Exploratória de Dados — Titanic](https://github.com/guilhermegama159/PI-Senac-2026)
+Projeto Integrador de análise de dados com o dataset do Titanic: organização do projeto, tratamento de dados, análise estatística, visualização e construção de dashboard. Desenvolvido de forma colaborativa com GitHub.
+**Stack:** Python · análise de dados
+
+### Projetos pessoais
+
+#### [Caixa-MEI](https://github.com/Duque881/caixa-mei) · em desenvolvimento
 Software de gestão financeira para MEIs e pequenos comércios, que permite separar as contas pessoais das contas da empresa e controlar caixa, estoque e vendas.
 **Stack:** Python · FastAPI · Pydantic · Pytest
 
-### Automação de dropshipping (C7Drop → Mercado Livre)
+#### Automação de dropshipping (C7Drop → Mercado Livre)
 Painel local que automatiza a operação de uma loja de dropshipping: cadastro de anúncios, monitoramento de estoque do fornecedor e orquestração de pedidos.
 **Stack:** Python · Flask · integração com APIs · automação de processos
 *Repositório em preparação.*
 
-### Mensageiro automatizado para consultórios
+#### Mensageiro automatizado para consultórios
 Aplicativo que envia mensagens automáticas (WhatsApp e e-mail) de médicos para pacientes, como lembretes de consulta e comunicados.
 **Stack:** Python · automação de mensagens
 *Repositório em preparação.*
