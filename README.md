@@ -23,7 +23,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no **Senac São Paulo** 
 ### Projetos do Senac (em equipe)
 
 #### [Sistema de Reserva de Assentos de Cinema](https://github.com/Dayane-cantao/cinema-senac-reserva-assentos)
-Projeto Integrador da disciplina Boas Práticas de Desenvolvimento de Software: aplicação web simples e interativa que simula a reserva de ingressos de cinema. Trabalho em equipe de 8 pessoas, versionado no GitHub. **Minha atuação:** levantamento de requisitos e regras do sistema.
+Projeto Integrador da disciplina Boas Práticas de Desenvolvimento de Software: aplicação web simples e interativa que simula a reserva de ingressos de cinema. Trabalho em equipe de 8 pessoas, versionado no GitHub. **Minha atuação:** levantamento de requisitos e regras do sistema, e desenvolvimento em JavaScript da lógica de seleção e reserva dos assentos.
 **Stack:** HTML5 · CSS3 · JavaScript · LocalStorage
 
 #### [Análise Exploratória de Dados — Titanic](https://github.com/guilhermegama159/PI-Senac-2026)
